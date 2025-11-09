@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "74d6be40f10970430632c41015b8ee5b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "a147f4ab33ea56938dcf0d30126afe92"
+    },
+    {
+        "path": "discover-the-best-way-to-learn-quran-online-and-transform-your-spiritual-life",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-way-to-learn-quran-online-and-transform-your-spiritual-life/index.html",
+        "type": "file",
+        "md5": "68209c8e46260a5629abe1631cdbdb0d"
+    },
+    {
+        "path": "discover-the-best-website-to-learn-quran-online-free",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-best-website-to-learn-quran-online-free/index.html",
+        "type": "file",
+        "md5": "7ab32440969d0f7166ce856bffcda522"
+    },
+    {
+        "path": "experience-the-best-way-to-learn-quran-online-and-build-a-strong-spiritual-foundation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/experience-the-best-way-to-learn-quran-online-and-build-a-strong-spiritual-foundation/index.html",
+        "type": "file",
+        "md5": "4b3ffc8c8c91854b29d2247657086f81"
+    },
+    {
+        "path": "explore-the-best-website-to-learn-quran-online-free-and-begin-your-spiritual-journey",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/explore-the-best-website-to-learn-quran-online-free-and-begin-your-spiritual-journey/index.html",
+        "type": "file",
+        "md5": "b52b6485503a487adc5f2c470a06dfa8"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "fcacd880a1a3ae1335c26e31da02ca32"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "3b6f7d93bd3e50303b4551a9101705ea"
+    },
+    {
+        "path": "find-peace-and-knowledge-with-the-best-website-to-learn-quran-online-free",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/find-peace-and-knowledge-with-the-best-website-to-learn-quran-online-free/index.html",
+        "type": "file",
+        "md5": "f17562f5431eb5196ea2cbc6632ff268"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4ace4a8f0e83dbc6d85cebc6b2b99937"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-2xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-lg.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-md.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-sm.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xl.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/responsive/tfsyr-xs.png",
+        "type": "file",
+        "md5": "732eecabb4376316ad6baf1dd104ef45"
+    },
+    {
+        "path": "/media/website/tfsyr.png",
+        "type": "file",
+        "md5": "f5e51629f7c1b609a188d7b9e37df777"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "10c1dceb8af1455fb9f194a74f6a666e"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "aed7c5686217a681d3335deb97169cdd"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "0a645fa3dc8178f5c314875b0a752463"
+    }
+]
